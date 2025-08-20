@@ -3,7 +3,7 @@ Project report: https://docs.google.com/document/d/1IrIv8KO9ywi20cey8sk0YiG__dxU
 
 
 
-# Sample Hardhat Project
+# Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
